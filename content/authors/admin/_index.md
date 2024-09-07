@@ -30,21 +30,33 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: envelope
+    icon_pack: fab
+    link: '/#contact'
+  - icon: envelope
+    icon_pack: fab
+    link: https://www.elibrary.ru/reg_confirm.asp?userid=5920169&guid=0E0FB979-BD9C-4830-AFA5-84C9EF948EDF # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: envelope 
+    icon_pack: fab
+    link: https://scholar.google.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zashikhalievaa
+  - icon: mendeley
+    icon_pack: fab
+    link:  https://www.mendeley.com/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0008-4360-9007
+  - icon: envelope
+    icon_pack: fab
+    link:  https://www.researchgate.net
+  - icon: envelope
+    icon_pack: fab
+    link:  https://www.academia.edu/t/BTSRL-R4ZHaEC-vh0oc/activate/NTNTd3dKdjlxVmduSlFuOG12QlByc2V4VE4rMVFQaCtqcERUcmhYRUkwOD0tLW85c1RPRmtzNnBQK3FDalNOcW9yd1E9PQ==--66d2787c7a706824df6ff83342b64c69eccb4e6a
+  - icon: envelope
+    icon_pack: fas
+    link:  https://arxiv.org/user/
 
 interests:
   - Программирование
