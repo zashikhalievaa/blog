@@ -568,6 +568,7 @@
       "did-you-find-this-page-helpful-consider-sharing-it-",
       "hide-button",
       "inline-images",
+      "introduction",
       "math",
       "moon",
       "nav-menu",
@@ -600,10 +601,12 @@
       "test-students",
       "top",
       "video",
+      "вывод",
       "используйте-git-для",
       "основные-операции-с-git",
       "пост-по-прошедшей-неделе",
       "преимущества-git",
+      "преимущества-markdown",
       "управление-версиями-git"
     ]
   }
